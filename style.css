@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+h1{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
